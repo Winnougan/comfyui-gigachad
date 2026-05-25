@@ -208,6 +208,9 @@ If these nodes save you time or spark something cool, consider supporting on Pat
 
 ---
 
+[![Support on Patreon](https://img.shields.io/badge/Patreon-Support%20Winnougan-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/Winnougan)
+[![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Winnougan-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/Winnougan)
+
 ## 📄 License
 
 Apache 2.0 — use it, build on it, don't be lame about it.
