@@ -203,11 +203,6 @@ Save Image
 
 If these nodes save you time or spark something cool, consider supporting on Patreon — exclusive workflows, nodes, and LLM setups drop there first.
 
-👉 [patreon.com/Winnougan](https://www.patreon.com/c/u5867556)  
-☕ [Ko-fi tip jar](https://ko-fi.com/winnougan)
-
----
-
 [![Support on Patreon](https://img.shields.io/badge/Patreon-Support%20Winnougan-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/u5867556)
 [![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Winnougan-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/Winnougan)
 
